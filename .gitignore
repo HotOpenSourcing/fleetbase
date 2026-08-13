@@ -1,6 +1,5 @@
 /node_modules
 .fleetbase-dev-links.json
-.env
 .env.backup
 .phpunit.result.cache
 .pnpm-store
@@ -57,3 +56,4 @@ builds/osx/frankenphp
 *.dll
 *.so
 *.dylib
+config.bat
